@@ -1,0 +1,529 @@
+[
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Huancavelica",
+        "Total de niños": 400,
+        "Niños con Anemia": 200,
+        "Porcentaje de Niños con Anemia": 50.0,
+        "Porcentaje de atención médica": 80.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Iquitos",
+        "Total de niños": 600,
+        "Niños con Anemia": 180,
+        "Porcentaje de Niños con Anemia": 30.0,
+        "Porcentaje de atención médica": 90.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Cajamarca",
+        "Total de niños": 450,
+        "Niños con Anemia": 150,
+        "Porcentaje de Niños con Anemia": 33.3,
+        "Porcentaje de atención médica": 85.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Huancavelica",
+        "Total de niños": 400,
+        "Niños con Anemia": 200,
+        "Porcentaje de Niños con Anemia": 50.0,
+        "Porcentaje de atención médica": 80.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Acobambilla",
+        "Total de niños": 250,
+        "Niños con Anemia": 120,
+        "Porcentaje de Niños con Anemia": 48.0,
+        "Porcentaje de atención médica": 82.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Acoria",
+        "Total de niños": 300,
+        "Niños con Anemia": 150,
+        "Porcentaje de Niños con Anemia": 50.0,
+        "Porcentaje de atención médica": 78.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Conayca",
+        "Total de niños": 300,
+        "Niños con Anemia": 130,
+        "Porcentaje de Niños con Anemia": 43.3,
+        "Porcentaje de atención médica": 80.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Cuenca",
+        "Total de niños": 350,
+        "Niños con Anemia": 180,
+        "Porcentaje de Niños con Anemia": 51.4,
+        "Porcentaje de atención médica": 79.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Huachocolpa",
+        "Total de niños": 380,
+        "Niños con Anemia": 190,
+        "Porcentaje de Niños con Anemia": 50.0,
+        "Porcentaje de atención médica": 81.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Huayllahuara",
+        "Total de niños": 320,
+        "Niños con Anemia": 140,
+        "Porcentaje de Niños con Anemia": 43.8,
+        "Porcentaje de atención médica": 82.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Izcuchaca",
+        "Total de niños": 280,
+        "Niños con Anemia": 130,
+        "Porcentaje de Niños con Anemia": 46.4,
+        "Porcentaje de atención médica": 79.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Laria",
+        "Total de niños": 310,
+        "Niños con Anemia": 160,
+        "Porcentaje de Niños con Anemia": 51.6,
+        "Porcentaje de atención médica": 81.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Manta",
+        "Total de niños": 300,
+        "Niños con Anemia": 160,
+        "Porcentaje de Niños con Anemia": 53.3,
+        "Porcentaje de atención médica": 79.8
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Mariscal Cáceres",
+        "Total de niños": 330,
+        "Niños con Anemia": 170,
+        "Porcentaje de Niños con Anemia": 51.5,
+        "Porcentaje de atención médica": 80.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Moya",
+        "Total de niños": 290,
+        "Niños con Anemia": 140,
+        "Porcentaje de Niños con Anemia": 48.3,
+        "Porcentaje de atención médica": 81.2
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Nuevo Occoro",
+        "Total de niños": 270,
+        "Niños con Anemia": 120,
+        "Porcentaje de Niños con Anemia": 44.4,
+        "Porcentaje de atención médica": 82.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Palca",
+        "Total de niños": 320,
+        "Niños con Anemia": 180,
+        "Porcentaje de Niños con Anemia": 56.3,
+        "Porcentaje de atención médica": 79.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Pilchaca",
+        "Total de niños": 290,
+        "Niños con Anemia": 130,
+        "Porcentaje de Niños con Anemia": 44.8,
+        "Porcentaje de atención médica": 80.8
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Vilca",
+        "Total de niños": 300,
+        "Niños con Anemia": 160,
+        "Porcentaje de Niños con Anemia": 53.3,
+        "Porcentaje de atención médica": 78.5
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Yauli",
+        "Total de niños": 280,
+        "Niños con Anemia": 150,
+        "Porcentaje de Niños con Anemia": 53.6,
+        "Porcentaje de atención médica": 81.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Ascensión",
+        "Total de niños": 310,
+        "Niños con Anemia": 180,
+        "Porcentaje de Niños con Anemia": 58.1,
+        "Porcentaje de atención médica": 79.2
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Huando",
+        "Total de niños": 290,
+        "Niños con Anemia": 140,
+        "Porcentaje de Niños con Anemia": 48.3,
+        "Porcentaje de atención médica": 80.8
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "Concebamba",
+        "Total de niños": 310,
+        "Niños con Anemia": 160,
+        "Porcentaje de Niños con Anemia": 51.6,
+        "Porcentaje de atención médica": 81.0
+    },
+    {
+        "Departamento": "Huancavelica",
+        "Distrito": "San Pedro de Cachora",
+        "Total de niños": 330,
+        "Niños con Anemia": 170,
+        "Porcentaje de Niños con Anemia": 51.5,
+        "Porcentaje de atención médica": 80.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Iquitos",
+        "Total de niños": 600,
+        "Niños con Anemia": 120,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 90.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Alto Nanay",
+        "Total de niños": 350,
+        "Niños con Anemia": 70,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 92.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Fernando Lores",
+        "Total de niños": 400,
+        "Niños con Anemia": 80,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 91.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Indiana",
+        "Total de niños": 450,
+        "Niños con Anemia": 90,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Las Amazonas",
+        "Total de niños": 380,
+        "Niños con Anemia": 75,
+        "Porcentaje de Niños con Anemia": 19.7,
+        "Porcentaje de atención médica": 90.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Mazán",
+        "Total de niños": 420,
+        "Niños con Anemia": 85,
+        "Porcentaje de Niños con Anemia": 20.2,
+        "Porcentaje de atención médica": 89.8
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Napo",
+        "Total de niños": 320,
+        "Niños con Anemia": 65,
+        "Porcentaje de Niños con Anemia": 20.3,
+        "Porcentaje de atención médica": 91.2
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Punchana",
+        "Total de niños": 380,
+        "Niños con Anemia": 75,
+        "Porcentaje de Niños con Anemia": 19.7,
+        "Porcentaje de atención médica": 90.8
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Putumayo",
+        "Total de niños": 300,
+        "Niños con Anemia": 60,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 92.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "San Juan Bautista",
+        "Total de niños": 500,
+        "Niños con Anemia": 100,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Teniente Manuel Clavero",
+        "Total de niños": 450,
+        "Niños con Anemia": 90,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 91.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Torres Causana",
+        "Total de niños": 420,
+        "Niños con Anemia": 85,
+        "Porcentaje de Niños con Anemia": 20.2,
+        "Porcentaje de atención médica": 90.8
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Belén",
+        "Total de niños": 480,
+        "Niños con Anemia": 95,
+        "Porcentaje de Niños con Anemia": 19.8,
+        "Porcentaje de atención médica": 91.5
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "San Juan",
+        "Total de niños": 520,
+        "Niños con Anemia": 105,
+        "Porcentaje de Niños con Anemia": 20.2,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Loreto",
+        "Distrito": "Yaquerana",
+        "Total de niños": 490,
+        "Niños con Anemia": 98,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 90.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Cajamarca",
+        "Total de niños": 450,
+        "Niños con Anemia": 90,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Asunción",
+        "Total de niños": 400,
+        "Niños con Anemia": 80,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Chetilla",
+        "Total de niños": 350,
+        "Niños con Anemia": 70,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 90.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Cospan",
+        "Total de niños": 420,
+        "Niños con Anemia": 84,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 87.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Encañada",
+        "Total de niños": 380,
+        "Niños con Anemia": 76,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Jesus",
+        "Total de niños": 400,
+        "Niños con Anemia": 80,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.2
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "La Libertad de Pallán",
+        "Total de niños": 370,
+        "Niños con Anemia": 74,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Namora",
+        "Total de niños": 390,
+        "Niños con Anemia": 78,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Marcos",
+        "Total de niños": 360,
+        "Niños con Anemia": 72,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 87.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San José de Lourdes",
+        "Total de niños": 340,
+        "Niños con Anemia": 68,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.2
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Marcos",
+        "Total de niños": 380,
+        "Niños con Anemia": 76,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 87.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Miguel",
+        "Total de niños": 350,
+        "Niños con Anemia": 70,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Pablo",
+        "Total de niños": 320,
+        "Niños con Anemia": 64,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.2
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Santa Cruz",
+        "Total de niños": 370,
+        "Niños con Anemia": 74,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 87.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Santo Domingo de la Capilla",
+        "Total de niños": 340,
+        "Niños con Anemia": 68,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Andrés",
+        "Total de niños": 330,
+        "Niños con Anemia": 66,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Antonio",
+        "Total de niños": 360,
+        "Niños con Anemia": 72,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.2
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Benito",
+        "Total de niños": 350,
+        "Niños con Anemia": 70,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 87.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Gregorio",
+        "Total de niños": 320,
+        "Niños con Anemia": 64,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.2
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Ignacio",
+        "Total de niños": 340,
+        "Niños con Anemia": 68,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Juan",
+        "Total de niños": 330,
+        "Niños con Anemia": 66,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.0
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Marcos",
+        "Total de niños": 310,
+        "Niños con Anemia": 62,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "San Pablo",
+        "Total de niños": 330,
+        "Niños con Anemia": 66,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Santa Cruz",
+        "Total de niños": 320,
+        "Niños con Anemia": 64,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.2
+    },{
+        "Departamento": "Cajamarca",
+        "Distrito": "Cupisnique",
+        "Total de niños": 310,
+        "Niños con Anemia": 62,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.8
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Huabal",
+        "Total de niños": 330,
+        "Niños con Anemia": 66,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 89.5
+    },
+    {
+        "Departamento": "Cajamarca",
+        "Distrito": "Lajas",
+        "Total de niños": 320,
+        "Niños con Anemia": 64,
+        "Porcentaje de Niños con Anemia": 20.0,
+        "Porcentaje de atención médica": 88.2
+    }
+]
